@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dijkstra HW Starter", "Dijkstra HW Starter.csproj", "{6539075C-5F91-432D-8A7E-C81438D489D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6539075C-5F91-432D-8A7E-C81438D489D0}.Debug|x86.ActiveCfg = Debug|x86
+		{6539075C-5F91-432D-8A7E-C81438D489D0}.Debug|x86.Build.0 = Debug|x86
+		{6539075C-5F91-432D-8A7E-C81438D489D0}.Release|x86.ActiveCfg = Release|x86
+		{6539075C-5F91-432D-8A7E-C81438D489D0}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC3AE882-FC44-4701-B232-C0CEB6ACC37B}
+	EndGlobalSection
+EndGlobal

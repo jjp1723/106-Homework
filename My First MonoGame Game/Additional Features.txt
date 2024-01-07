@@ -1,0 +1,4 @@
+John Pionzio
+2-7-2020
+
+My additional feature is the inclusion of two special collectibles. These collectibles are of the Collectible class.  These special collectibles are NOT included as part of the required collectibles to move to another level.  The first special collectible is an extra time collectible: collecting this grants the user an extra second to complete the level.  The second special collectible is a less time collectible: collecting this decreases the user's time by 3 seconds.  Both of these special collectibles appear different than the “regular” collectibles.  The extra time collectible is green, and the less time collectible is red.  The extra time collectible regularly spawns starting at level three, and an additional one will spawn every third level.  The less time collectible spawns once every 5 levels begining at level 4, and will NOT despawn in the next level.

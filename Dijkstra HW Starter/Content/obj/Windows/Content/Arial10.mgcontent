@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>G:/School Stuff/RIT/GDAPS 2/Homework/Dijkstra HW Starter/Content/Arial10.spritefont</SourceFile>
+  <SourceTime>2018-04-19T21:23:32-04:00</SourceTime>
+  <DestFile>G:/School Stuff/RIT/GDAPS 2/Homework/Dijkstra HW Starter/Content/bin/Windows/Content/Arial10.xnb</DestFile>
+  <DestTime>2020-04-23T10:11:46.8821236-04:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-12-08T11:35:54-05:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-12-08T11:35:54-05:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

@@ -1,0 +1,6 @@
+F:\School Stuff\RIT\GDAPS 2\Homework\Doubly Linked List\Doubly Linked List\bin\Debug\Doubly Linked List.exe.config
+F:\School Stuff\RIT\GDAPS 2\Homework\Doubly Linked List\Doubly Linked List\bin\Debug\Doubly Linked List.exe
+F:\School Stuff\RIT\GDAPS 2\Homework\Doubly Linked List\Doubly Linked List\bin\Debug\Doubly Linked List.pdb
+F:\School Stuff\RIT\GDAPS 2\Homework\Doubly Linked List\Doubly Linked List\obj\Debug\Doubly Linked List.csprojAssemblyReference.cache
+F:\School Stuff\RIT\GDAPS 2\Homework\Doubly Linked List\Doubly Linked List\obj\Debug\Doubly Linked List.exe
+F:\School Stuff\RIT\GDAPS 2\Homework\Doubly Linked List\Doubly Linked List\obj\Debug\Doubly Linked List.pdb

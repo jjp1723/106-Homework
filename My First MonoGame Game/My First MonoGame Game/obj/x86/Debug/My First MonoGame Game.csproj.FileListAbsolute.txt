@@ -1,0 +1,26 @@
+G:\School Stuff\RIT\GDAPS 2\Homework\My First MonoGame Game\My First MonoGame Game\bin\Windows\x86\Debug\Content\menuText.xnb
+G:\School Stuff\RIT\GDAPS 2\Homework\My First MonoGame Game\My First MonoGame Game\bin\Windows\x86\Debug\Content\scoreText.xnb
+G:\School Stuff\RIT\GDAPS 2\Homework\My First MonoGame Game\My First MonoGame Game\bin\Windows\x86\Debug\Content\square.xnb
+G:\School Stuff\RIT\GDAPS 2\Homework\My First MonoGame Game\My First MonoGame Game\bin\Windows\x86\Debug\My First MonoGame Game.exe
+G:\School Stuff\RIT\GDAPS 2\Homework\My First MonoGame Game\My First MonoGame Game\bin\Windows\x86\Debug\My First MonoGame Game.pdb
+G:\School Stuff\RIT\GDAPS 2\Homework\My First MonoGame Game\My First MonoGame Game\bin\Windows\x86\Debug\MonoGame.Framework.dll
+G:\School Stuff\RIT\GDAPS 2\Homework\My First MonoGame Game\My First MonoGame Game\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+G:\School Stuff\RIT\GDAPS 2\Homework\My First MonoGame Game\My First MonoGame Game\bin\Windows\x86\Debug\SharpDX.dll
+G:\School Stuff\RIT\GDAPS 2\Homework\My First MonoGame Game\My First MonoGame Game\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+G:\School Stuff\RIT\GDAPS 2\Homework\My First MonoGame Game\My First MonoGame Game\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+G:\School Stuff\RIT\GDAPS 2\Homework\My First MonoGame Game\My First MonoGame Game\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+G:\School Stuff\RIT\GDAPS 2\Homework\My First MonoGame Game\My First MonoGame Game\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+G:\School Stuff\RIT\GDAPS 2\Homework\My First MonoGame Game\My First MonoGame Game\bin\Windows\x86\Debug\SharpDX.XInput.dll
+G:\School Stuff\RIT\GDAPS 2\Homework\My First MonoGame Game\My First MonoGame Game\bin\Windows\x86\Debug\MonoGame.Framework.xml
+G:\School Stuff\RIT\GDAPS 2\Homework\My First MonoGame Game\My First MonoGame Game\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+G:\School Stuff\RIT\GDAPS 2\Homework\My First MonoGame Game\My First MonoGame Game\bin\Windows\x86\Debug\SharpDX.xml
+G:\School Stuff\RIT\GDAPS 2\Homework\My First MonoGame Game\My First MonoGame Game\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+G:\School Stuff\RIT\GDAPS 2\Homework\My First MonoGame Game\My First MonoGame Game\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+G:\School Stuff\RIT\GDAPS 2\Homework\My First MonoGame Game\My First MonoGame Game\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+G:\School Stuff\RIT\GDAPS 2\Homework\My First MonoGame Game\My First MonoGame Game\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+G:\School Stuff\RIT\GDAPS 2\Homework\My First MonoGame Game\My First MonoGame Game\bin\Windows\x86\Debug\SharpDX.XInput.xml
+G:\School Stuff\RIT\GDAPS 2\Homework\My First MonoGame Game\My First MonoGame Game\obj\x86\Debug\My First MonoGame Game.csprojAssemblyReference.cache
+G:\School Stuff\RIT\GDAPS 2\Homework\My First MonoGame Game\My First MonoGame Game\obj\x86\Debug\My First MonoGame Game.csproj.CoreCompileInputs.cache
+G:\School Stuff\RIT\GDAPS 2\Homework\My First MonoGame Game\My First MonoGame Game\obj\x86\Debug\My First MonoGame Game.csproj.CopyComplete
+G:\School Stuff\RIT\GDAPS 2\Homework\My First MonoGame Game\My First MonoGame Game\obj\x86\Debug\My First MonoGame Game.exe
+G:\School Stuff\RIT\GDAPS 2\Homework\My First MonoGame Game\My First MonoGame Game\obj\x86\Debug\My First MonoGame Game.pdb

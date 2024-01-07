@@ -1,0 +1,98 @@
+C:\Users\Chris\Desktop\Dijkstra HW Starter\obj\x86\Debug\Dijkstra HW Starter.csprojAssemblyReference.cache
+C:\Users\Chris\Desktop\Dijkstra HW Starter\bin\Windows\x86\Debug\Content\Arial10.xnb
+C:\Users\Chris\Desktop\Dijkstra HW Starter\bin\Windows\x86\Debug\Content\tower.xnb
+C:\Users\Chris\Desktop\Dijkstra HW Starter\bin\Windows\x86\Debug\Dijkstra HW Starter.exe
+C:\Users\Chris\Desktop\Dijkstra HW Starter\bin\Windows\x86\Debug\Dijkstra HW Starter.pdb
+C:\Users\Chris\Desktop\Dijkstra HW Starter\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Chris\Desktop\Dijkstra HW Starter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Chris\Desktop\Dijkstra HW Starter\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Chris\Desktop\Dijkstra HW Starter\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Chris\Desktop\Dijkstra HW Starter\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Chris\Desktop\Dijkstra HW Starter\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Chris\Desktop\Dijkstra HW Starter\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Chris\Desktop\Dijkstra HW Starter\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Chris\Desktop\Dijkstra HW Starter\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Chris\Desktop\Dijkstra HW Starter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Chris\Desktop\Dijkstra HW Starter\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Chris\Desktop\Dijkstra HW Starter\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Chris\Desktop\Dijkstra HW Starter\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Chris\Desktop\Dijkstra HW Starter\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Chris\Desktop\Dijkstra HW Starter\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Chris\Desktop\Dijkstra HW Starter\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Chris\Desktop\Dijkstra HW Starter\obj\x86\Debug\Dijkstra HW Starter.csproj.CopyComplete
+C:\Users\Chris\Desktop\Dijkstra HW Starter\obj\x86\Debug\Dijkstra HW Starter.exe
+C:\Users\Chris\Desktop\Dijkstra HW Starter\obj\x86\Debug\Dijkstra HW Starter.pdb
+C:\Users\Chris\Dropbox\School\2195 - GDAPS 2\Homework\HW4 - Dijkstra's Algorithm\Dijkstra HW Starter\bin\Windows\x86\Debug\Content\Arial10.xnb
+C:\Users\Chris\Dropbox\School\2195 - GDAPS 2\Homework\HW4 - Dijkstra's Algorithm\Dijkstra HW Starter\bin\Windows\x86\Debug\Content\tower.xnb
+C:\Users\Chris\Dropbox\School\2195 - GDAPS 2\Homework\HW4 - Dijkstra's Algorithm\Dijkstra HW Starter\bin\Windows\x86\Debug\Dijkstra HW Starter.exe
+C:\Users\Chris\Dropbox\School\2195 - GDAPS 2\Homework\HW4 - Dijkstra's Algorithm\Dijkstra HW Starter\bin\Windows\x86\Debug\Dijkstra HW Starter.pdb
+C:\Users\Chris\Dropbox\School\2195 - GDAPS 2\Homework\HW4 - Dijkstra's Algorithm\Dijkstra HW Starter\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Chris\Dropbox\School\2195 - GDAPS 2\Homework\HW4 - Dijkstra's Algorithm\Dijkstra HW Starter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Chris\Dropbox\School\2195 - GDAPS 2\Homework\HW4 - Dijkstra's Algorithm\Dijkstra HW Starter\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Chris\Dropbox\School\2195 - GDAPS 2\Homework\HW4 - Dijkstra's Algorithm\Dijkstra HW Starter\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Chris\Dropbox\School\2195 - GDAPS 2\Homework\HW4 - Dijkstra's Algorithm\Dijkstra HW Starter\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Chris\Dropbox\School\2195 - GDAPS 2\Homework\HW4 - Dijkstra's Algorithm\Dijkstra HW Starter\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Chris\Dropbox\School\2195 - GDAPS 2\Homework\HW4 - Dijkstra's Algorithm\Dijkstra HW Starter\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Chris\Dropbox\School\2195 - GDAPS 2\Homework\HW4 - Dijkstra's Algorithm\Dijkstra HW Starter\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Chris\Dropbox\School\2195 - GDAPS 2\Homework\HW4 - Dijkstra's Algorithm\Dijkstra HW Starter\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Chris\Dropbox\School\2195 - GDAPS 2\Homework\HW4 - Dijkstra's Algorithm\Dijkstra HW Starter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Chris\Dropbox\School\2195 - GDAPS 2\Homework\HW4 - Dijkstra's Algorithm\Dijkstra HW Starter\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Chris\Dropbox\School\2195 - GDAPS 2\Homework\HW4 - Dijkstra's Algorithm\Dijkstra HW Starter\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Chris\Dropbox\School\2195 - GDAPS 2\Homework\HW4 - Dijkstra's Algorithm\Dijkstra HW Starter\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Chris\Dropbox\School\2195 - GDAPS 2\Homework\HW4 - Dijkstra's Algorithm\Dijkstra HW Starter\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Chris\Dropbox\School\2195 - GDAPS 2\Homework\HW4 - Dijkstra's Algorithm\Dijkstra HW Starter\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Chris\Dropbox\School\2195 - GDAPS 2\Homework\HW4 - Dijkstra's Algorithm\Dijkstra HW Starter\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Chris\Dropbox\School\2195 - GDAPS 2\Homework\HW4 - Dijkstra's Algorithm\Dijkstra HW Starter\obj\x86\Debug\Dijkstra HW Starter.csprojAssemblyReference.cache
+C:\Users\Chris\Dropbox\School\2195 - GDAPS 2\Homework\HW4 - Dijkstra's Algorithm\Dijkstra HW Starter\obj\x86\Debug\Dijkstra HW Starter.csproj.CopyComplete
+C:\Users\Chris\Dropbox\School\2195 - GDAPS 2\Homework\HW4 - Dijkstra's Algorithm\Dijkstra HW Starter\obj\x86\Debug\Dijkstra HW Starter.exe
+C:\Users\Chris\Dropbox\School\2195 - GDAPS 2\Homework\HW4 - Dijkstra's Algorithm\Dijkstra HW Starter\obj\x86\Debug\Dijkstra HW Starter.pdb
+D:\Chris\Dropbox\School\2195 - GDAPS 2\Homework\HW4 - Dijkstra's Algorithm\Dijkstra HW Starter\bin\Windows\x86\Debug\Content\Arial10.xnb
+D:\Chris\Dropbox\School\2195 - GDAPS 2\Homework\HW4 - Dijkstra's Algorithm\Dijkstra HW Starter\bin\Windows\x86\Debug\Content\tower.xnb
+D:\Chris\Dropbox\School\2195 - GDAPS 2\Homework\HW4 - Dijkstra's Algorithm\Dijkstra HW Starter\bin\Windows\x86\Debug\Dijkstra HW Starter.exe
+D:\Chris\Dropbox\School\2195 - GDAPS 2\Homework\HW4 - Dijkstra's Algorithm\Dijkstra HW Starter\bin\Windows\x86\Debug\Dijkstra HW Starter.pdb
+D:\Chris\Dropbox\School\2195 - GDAPS 2\Homework\HW4 - Dijkstra's Algorithm\Dijkstra HW Starter\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Chris\Dropbox\School\2195 - GDAPS 2\Homework\HW4 - Dijkstra's Algorithm\Dijkstra HW Starter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Chris\Dropbox\School\2195 - GDAPS 2\Homework\HW4 - Dijkstra's Algorithm\Dijkstra HW Starter\bin\Windows\x86\Debug\SharpDX.dll
+D:\Chris\Dropbox\School\2195 - GDAPS 2\Homework\HW4 - Dijkstra's Algorithm\Dijkstra HW Starter\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Chris\Dropbox\School\2195 - GDAPS 2\Homework\HW4 - Dijkstra's Algorithm\Dijkstra HW Starter\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Chris\Dropbox\School\2195 - GDAPS 2\Homework\HW4 - Dijkstra's Algorithm\Dijkstra HW Starter\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Chris\Dropbox\School\2195 - GDAPS 2\Homework\HW4 - Dijkstra's Algorithm\Dijkstra HW Starter\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Chris\Dropbox\School\2195 - GDAPS 2\Homework\HW4 - Dijkstra's Algorithm\Dijkstra HW Starter\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Chris\Dropbox\School\2195 - GDAPS 2\Homework\HW4 - Dijkstra's Algorithm\Dijkstra HW Starter\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Chris\Dropbox\School\2195 - GDAPS 2\Homework\HW4 - Dijkstra's Algorithm\Dijkstra HW Starter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Chris\Dropbox\School\2195 - GDAPS 2\Homework\HW4 - Dijkstra's Algorithm\Dijkstra HW Starter\bin\Windows\x86\Debug\SharpDX.xml
+D:\Chris\Dropbox\School\2195 - GDAPS 2\Homework\HW4 - Dijkstra's Algorithm\Dijkstra HW Starter\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Chris\Dropbox\School\2195 - GDAPS 2\Homework\HW4 - Dijkstra's Algorithm\Dijkstra HW Starter\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Chris\Dropbox\School\2195 - GDAPS 2\Homework\HW4 - Dijkstra's Algorithm\Dijkstra HW Starter\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Chris\Dropbox\School\2195 - GDAPS 2\Homework\HW4 - Dijkstra's Algorithm\Dijkstra HW Starter\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Chris\Dropbox\School\2195 - GDAPS 2\Homework\HW4 - Dijkstra's Algorithm\Dijkstra HW Starter\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Chris\Dropbox\School\2195 - GDAPS 2\Homework\HW4 - Dijkstra's Algorithm\Dijkstra HW Starter\obj\x86\Debug\Dijkstra HW Starter.csprojAssemblyReference.cache
+D:\Chris\Dropbox\School\2195 - GDAPS 2\Homework\HW4 - Dijkstra's Algorithm\Dijkstra HW Starter\obj\x86\Debug\Dijkstra HW Starter.csproj.CoreCompileInputs.cache
+D:\Chris\Dropbox\School\2195 - GDAPS 2\Homework\HW4 - Dijkstra's Algorithm\Dijkstra HW Starter\obj\x86\Debug\Dijkstra HW Starter.csproj.CopyComplete
+D:\Chris\Dropbox\School\2195 - GDAPS 2\Homework\HW4 - Dijkstra's Algorithm\Dijkstra HW Starter\obj\x86\Debug\Dijkstra HW Starter.exe
+D:\Chris\Dropbox\School\2195 - GDAPS 2\Homework\HW4 - Dijkstra's Algorithm\Dijkstra HW Starter\obj\x86\Debug\Dijkstra HW Starter.pdb
+G:\School Stuff\RIT\GDAPS 2\Homework\Dijkstra HW Starter\bin\Windows\x86\Debug\Content\Arial10.xnb
+G:\School Stuff\RIT\GDAPS 2\Homework\Dijkstra HW Starter\bin\Windows\x86\Debug\Content\tower.xnb
+G:\School Stuff\RIT\GDAPS 2\Homework\Dijkstra HW Starter\bin\Windows\x86\Debug\Dijkstra HW Starter.exe
+G:\School Stuff\RIT\GDAPS 2\Homework\Dijkstra HW Starter\bin\Windows\x86\Debug\Dijkstra HW Starter.pdb
+G:\School Stuff\RIT\GDAPS 2\Homework\Dijkstra HW Starter\bin\Windows\x86\Debug\MonoGame.Framework.dll
+G:\School Stuff\RIT\GDAPS 2\Homework\Dijkstra HW Starter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+G:\School Stuff\RIT\GDAPS 2\Homework\Dijkstra HW Starter\bin\Windows\x86\Debug\SharpDX.dll
+G:\School Stuff\RIT\GDAPS 2\Homework\Dijkstra HW Starter\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+G:\School Stuff\RIT\GDAPS 2\Homework\Dijkstra HW Starter\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+G:\School Stuff\RIT\GDAPS 2\Homework\Dijkstra HW Starter\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+G:\School Stuff\RIT\GDAPS 2\Homework\Dijkstra HW Starter\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+G:\School Stuff\RIT\GDAPS 2\Homework\Dijkstra HW Starter\bin\Windows\x86\Debug\SharpDX.XInput.dll
+G:\School Stuff\RIT\GDAPS 2\Homework\Dijkstra HW Starter\bin\Windows\x86\Debug\MonoGame.Framework.xml
+G:\School Stuff\RIT\GDAPS 2\Homework\Dijkstra HW Starter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+G:\School Stuff\RIT\GDAPS 2\Homework\Dijkstra HW Starter\bin\Windows\x86\Debug\SharpDX.xml
+G:\School Stuff\RIT\GDAPS 2\Homework\Dijkstra HW Starter\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+G:\School Stuff\RIT\GDAPS 2\Homework\Dijkstra HW Starter\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+G:\School Stuff\RIT\GDAPS 2\Homework\Dijkstra HW Starter\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+G:\School Stuff\RIT\GDAPS 2\Homework\Dijkstra HW Starter\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+G:\School Stuff\RIT\GDAPS 2\Homework\Dijkstra HW Starter\bin\Windows\x86\Debug\SharpDX.XInput.xml
+G:\School Stuff\RIT\GDAPS 2\Homework\Dijkstra HW Starter\obj\x86\Debug\Dijkstra HW Starter.csprojAssemblyReference.cache
+G:\School Stuff\RIT\GDAPS 2\Homework\Dijkstra HW Starter\obj\x86\Debug\Dijkstra HW Starter.csproj.CoreCompileInputs.cache
+G:\School Stuff\RIT\GDAPS 2\Homework\Dijkstra HW Starter\obj\x86\Debug\Dijkstra HW Starter.csproj.CopyComplete
+G:\School Stuff\RIT\GDAPS 2\Homework\Dijkstra HW Starter\obj\x86\Debug\Dijkstra HW Starter.exe
+G:\School Stuff\RIT\GDAPS 2\Homework\Dijkstra HW Starter\obj\x86\Debug\Dijkstra HW Starter.pdb
